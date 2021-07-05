@@ -12,3 +12,5 @@ Front-end - It's a index page of website whare all the posts are displayed along
             be totally dynamic . It also has a search bar  and recent post area where all the recent posts are displayed. It aslo has pagination feature.
 
 Database : MYSQL has been used as a database where it consist of tables like Post, User, Category, Settings .
+ sample video link :- https://drive.google.com/file/d/1YLA1V7NSbsAuAHD-UlJElt00Mm4WiRCP/view?usp=sharing
+ 
